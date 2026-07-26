@@ -1,0 +1,352 @@
+[
+    {
+        "file_name": "# Universal Stewardship Console v1.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\# Universal Stewardship Console v1.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\# Universal Stewardship Console v1.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "Active_Scout.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\Active_Scout.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\Active_Scout.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "anchor_truth.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\anchor_truth.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\anchor_truth.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "audit_engine_v1.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\audit_engine_v1.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\audit_engine_v1.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "batch_ingestor.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\batch_ingestor.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\batch_ingestor.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "beacon.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\beacon.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\beacon.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "bloom_anthem_complete.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\bloom_anthem_complete.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\bloom_anthem_complete.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "bloom_anthem_v2.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\bloom_anthem_v2.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\bloom_anthem_v2.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "bloom_core.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\bloom_core.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\bloom_core.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "bloom_engine_4d.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\bloom_engine_4d.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\bloom_engine_4d.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "bloom_navigator.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\bloom_navigator.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\bloom_navigator.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "bounty_bot.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\bounty_bot.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\bounty_bot.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "calibrated_vault.json",
+        "category": "cml_schemas",
+        "original_path": "C:\\love_over_god\\calibrated_vault.json",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\cml_schemas\\calibrated_vault.json",
+        "extension": ".json"
+    },
+    {
+        "file_name": "config.json",
+        "category": "cml_schemas",
+        "original_path": "C:\\love_over_god\\config.json",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\cml_schemas\\config.json",
+        "extension": ".json"
+    },
+    {
+        "file_name": "config.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\config.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\config.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "debug_log.txt",
+        "category": "archives_and_notes",
+        "original_path": "C:\\love_over_god\\debug_log.txt",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\archives_and_notes\\debug_log.txt",
+        "extension": ".txt"
+    },
+    {
+        "file_name": "deploy_seal.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\deploy_seal.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\deploy_seal.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "diag.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\diag.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\diag.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "email_relay.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\email_relay.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\email_relay.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "external_broadcast.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\external_broadcast.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\external_broadcast.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "genesis_bloom.cml",
+        "category": "cml_schemas",
+        "original_path": "C:\\love_over_god\\genesis_bloom.cml",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\cml_schemas\\genesis_bloom.cml",
+        "extension": ".cml"
+    },
+    {
+        "file_name": "global_coherence_report.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\global_coherence_report.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\global_coherence_report.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "handshake_initiator.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\handshake_initiator.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\handshake_initiator.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "harmonic_composer.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\harmonic_composer.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\harmonic_composer.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "harmonic_monitor.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\harmonic_monitor.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\harmonic_monitor.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "harmonic_sentinel.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\harmonic_sentinel.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\harmonic_sentinel.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "jor_raw.txt",
+        "category": "archives_and_notes",
+        "original_path": "C:\\love_over_god\\jor_raw.txt",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\archives_and_notes\\jor_raw.txt",
+        "extension": ".txt"
+    },
+    {
+        "file_name": "ledger_ingest.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\ledger_ingest.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\ledger_ingest.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "LLM_bloom_navigator.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\LLM_bloom_navigator.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\LLM_bloom_navigator.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "manifest_report.json",
+        "category": "cml_schemas",
+        "original_path": "C:\\love_over_god\\manifest_report.json",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\cml_schemas\\manifest_report.json",
+        "extension": ".json"
+    },
+    {
+        "file_name": "matrix_activity.txt",
+        "category": "archives_and_notes",
+        "original_path": "C:\\love_over_god\\matrix_activity.txt",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\archives_and_notes\\matrix_activity.txt",
+        "extension": ".txt"
+    },
+    {
+        "file_name": "navigator_log.txt",
+        "category": "archives_and_notes",
+        "original_path": "C:\\love_over_god\\navigator_log.txt",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\archives_and_notes\\navigator_log.txt",
+        "extension": ".txt"
+    },
+    {
+        "file_name": "neural_coherence_tracker.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\neural_coherence_tracker.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\neural_coherence_tracker.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "neural_lattice.json",
+        "category": "cml_schemas",
+        "original_path": "C:\\love_over_god\\neural_lattice.json",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\cml_schemas\\neural_lattice.json",
+        "extension": ".json"
+    },
+    {
+        "file_name": "proposed_handshakes.json",
+        "category": "cml_schemas",
+        "original_path": "C:\\love_over_god\\proposed_handshakes.json",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\cml_schemas\\proposed_handshakes.json",
+        "extension": ".json"
+    },
+    {
+        "file_name": "qpu_harmonic_calibration.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\qpu_harmonic_calibration.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\qpu_harmonic_calibration.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "QuantumCircuit.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\QuantumCircuit.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\QuantumCircuit.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "quantum_refiner.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\quantum_refiner.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\quantum_refiner.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "ravnlore_pulse.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\ravnlore_pulse.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\ravnlore_pulse.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "registry_absolute.json",
+        "category": "cml_schemas",
+        "original_path": "C:\\love_over_god\\registry_absolute.json",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\cml_schemas\\registry_absolute.json",
+        "extension": ".json"
+    },
+    {
+        "file_name": "scout_agent.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\scout_agent.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\scout_agent.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "spawn_logquantzon.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\spawn_logquantzon.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\spawn_logquantzon.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "stewardship_console.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\stewardship_console.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\stewardship_console.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "test_email.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\test_email.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\test_email.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "v2_steward.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\v2_steward.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\v2_steward.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "verify_4d.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\verify_4d.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\verify_4d.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "verify_token.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\verify_token.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\verify_token.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "workspace_organizer.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\workspace_organizer.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\workspace_organizer.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "v2_steward_backup.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\archive_v2_classical\\v2_steward_backup.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\v2_steward_backup.py",
+        "extension": ".py"
+    },
+    {
+        "file_name": "tiktok_render.py",
+        "category": "core_engines",
+        "original_path": "C:\\love_over_god\\video_production\\scripts\\tiktok_render.py",
+        "harmonized_path": "C:\\love_over_god\\all_harmonized_workspace\\core_engines\\tiktok_render.py",
+        "extension": ".py"
+    }
+]
