@@ -1,0 +1,297 @@
+{
+    "framework": "Castleberry Bloom Lattice Model",
+    "axiom": "Love_Over_God_Equilibrium",
+    "baseline_frequency_hz": 528.0,
+    "golden_ratio_phi": 1.61803398875,
+    "total_nodes": 36,
+    "nodes": [
+        {
+            "node_id": "Hex-Ring-1-Node-1",
+            "coordinates": {
+                "x": 2.2976,
+                "y": 0.0
+            },
+            "harmonic_weight": 1.0
+        },
+        {
+            "node_id": "Hex-Ring-1-Node-2",
+            "coordinates": {
+                "x": 1.1488,
+                "y": 1.9898
+            },
+            "harmonic_weight": 0.9984
+        },
+        {
+            "node_id": "Hex-Ring-1-Node-3",
+            "coordinates": {
+                "x": -1.1488,
+                "y": 1.9898
+            },
+            "harmonic_weight": 0.9984
+        },
+        {
+            "node_id": "Hex-Ring-1-Node-4",
+            "coordinates": {
+                "x": -2.2976,
+                "y": 0.0
+            },
+            "harmonic_weight": 1.0
+        },
+        {
+            "node_id": "Hex-Ring-1-Node-5",
+            "coordinates": {
+                "x": -1.1488,
+                "y": -1.9898
+            },
+            "harmonic_weight": 0.9984
+        },
+        {
+            "node_id": "Hex-Ring-1-Node-6",
+            "coordinates": {
+                "x": 1.1488,
+                "y": -1.9898
+            },
+            "harmonic_weight": 0.9984
+        },
+        {
+            "node_id": "Hex-Ring-2-Node-1",
+            "coordinates": {
+                "x": 4.5952,
+                "y": 0.0
+            },
+            "harmonic_weight": 1.0
+        },
+        {
+            "node_id": "Hex-Ring-2-Node-2",
+            "coordinates": {
+                "x": 3.9796,
+                "y": 2.2976
+            },
+            "harmonic_weight": 0.9991
+        },
+        {
+            "node_id": "Hex-Ring-2-Node-3",
+            "coordinates": {
+                "x": 2.2976,
+                "y": 3.9796
+            },
+            "harmonic_weight": 0.9984
+        },
+        {
+            "node_id": "Hex-Ring-2-Node-4",
+            "coordinates": {
+                "x": 0.0,
+                "y": 4.5952
+            },
+            "harmonic_weight": 0.9981
+        },
+        {
+            "node_id": "Hex-Ring-2-Node-5",
+            "coordinates": {
+                "x": -2.2976,
+                "y": 3.9796
+            },
+            "harmonic_weight": 0.9984
+        },
+        {
+            "node_id": "Hex-Ring-2-Node-6",
+            "coordinates": {
+                "x": -3.9796,
+                "y": 2.2976
+            },
+            "harmonic_weight": 0.9991
+        },
+        {
+            "node_id": "Hex-Ring-2-Node-7",
+            "coordinates": {
+                "x": -4.5952,
+                "y": 0.0
+            },
+            "harmonic_weight": 1.0
+        },
+        {
+            "node_id": "Hex-Ring-2-Node-8",
+            "coordinates": {
+                "x": -3.9796,
+                "y": -2.2976
+            },
+            "harmonic_weight": 0.9991
+        },
+        {
+            "node_id": "Hex-Ring-2-Node-9",
+            "coordinates": {
+                "x": -2.2976,
+                "y": -3.9796
+            },
+            "harmonic_weight": 0.9984
+        },
+        {
+            "node_id": "Hex-Ring-2-Node-10",
+            "coordinates": {
+                "x": -0.0,
+                "y": -4.5952
+            },
+            "harmonic_weight": 0.9981
+        },
+        {
+            "node_id": "Hex-Ring-2-Node-11",
+            "coordinates": {
+                "x": 2.2976,
+                "y": -3.9796
+            },
+            "harmonic_weight": 0.9984
+        },
+        {
+            "node_id": "Hex-Ring-2-Node-12",
+            "coordinates": {
+                "x": 3.9796,
+                "y": -2.2976
+            },
+            "harmonic_weight": 0.9991
+        },
+        {
+            "node_id": "Hex-Ring-3-Node-1",
+            "coordinates": {
+                "x": 6.8928,
+                "y": 0.0
+            },
+            "harmonic_weight": 1.0
+        },
+        {
+            "node_id": "Hex-Ring-3-Node-2",
+            "coordinates": {
+                "x": 6.4771,
+                "y": 2.3575
+            },
+            "harmonic_weight": 0.9994
+        },
+        {
+            "node_id": "Hex-Ring-3-Node-3",
+            "coordinates": {
+                "x": 5.2802,
+                "y": 4.4306
+            },
+            "harmonic_weight": 0.9988
+        },
+        {
+            "node_id": "Hex-Ring-3-Node-4",
+            "coordinates": {
+                "x": 3.4464,
+                "y": 5.9694
+            },
+            "harmonic_weight": 0.9984
+        },
+        {
+            "node_id": "Hex-Ring-3-Node-5",
+            "coordinates": {
+                "x": 1.1969,
+                "y": 6.7881
+            },
+            "harmonic_weight": 0.9981
+        },
+        {
+            "node_id": "Hex-Ring-3-Node-6",
+            "coordinates": {
+                "x": -1.1969,
+                "y": 6.7881
+            },
+            "harmonic_weight": 0.9981
+        },
+        {
+            "node_id": "Hex-Ring-3-Node-7",
+            "coordinates": {
+                "x": -3.4464,
+                "y": 5.9694
+            },
+            "harmonic_weight": 0.9984
+        },
+        {
+            "node_id": "Hex-Ring-3-Node-8",
+            "coordinates": {
+                "x": -5.2802,
+                "y": 4.4306
+            },
+            "harmonic_weight": 0.9988
+        },
+        {
+            "node_id": "Hex-Ring-3-Node-9",
+            "coordinates": {
+                "x": -6.4771,
+                "y": 2.3575
+            },
+            "harmonic_weight": 0.9994
+        },
+        {
+            "node_id": "Hex-Ring-3-Node-10",
+            "coordinates": {
+                "x": -6.8928,
+                "y": 0.0
+            },
+            "harmonic_weight": 1.0
+        },
+        {
+            "node_id": "Hex-Ring-3-Node-11",
+            "coordinates": {
+                "x": -6.4771,
+                "y": -2.3575
+            },
+            "harmonic_weight": 0.9994
+        },
+        {
+            "node_id": "Hex-Ring-3-Node-12",
+            "coordinates": {
+                "x": -5.2802,
+                "y": -4.4306
+            },
+            "harmonic_weight": 0.9988
+        },
+        {
+            "node_id": "Hex-Ring-3-Node-13",
+            "coordinates": {
+                "x": -3.4464,
+                "y": -5.9694
+            },
+            "harmonic_weight": 0.9984
+        },
+        {
+            "node_id": "Hex-Ring-3-Node-14",
+            "coordinates": {
+                "x": -1.1969,
+                "y": -6.7881
+            },
+            "harmonic_weight": 0.9981
+        },
+        {
+            "node_id": "Hex-Ring-3-Node-15",
+            "coordinates": {
+                "x": 1.1969,
+                "y": -6.7881
+            },
+            "harmonic_weight": 0.9981
+        },
+        {
+            "node_id": "Hex-Ring-3-Node-16",
+            "coordinates": {
+                "x": 3.4464,
+                "y": -5.9694
+            },
+            "harmonic_weight": 0.9984
+        },
+        {
+            "node_id": "Hex-Ring-3-Node-17",
+            "coordinates": {
+                "x": 5.2802,
+                "y": -4.4306
+            },
+            "harmonic_weight": 0.9988
+        },
+        {
+            "node_id": "Hex-Ring-3-Node-18",
+            "coordinates": {
+                "x": 6.4771,
+                "y": -2.3575
+            },
+            "harmonic_weight": 0.9994
+        }
+    ]
+}
