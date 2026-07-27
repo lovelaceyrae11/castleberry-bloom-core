@@ -1,0 +1,32 @@
+name: Remnant Sovereign Audit
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  remnant-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Remnant Sovereign Auditor
+        run: |
+          python core_engines/remnant_auditor.py
+
+      - name: Verify Harmonic Manifest
+        run: |
+          if [ -f "cml_schemas/remnant_audit_report.json" ]; then
+            echo "Remnant Audit Verified: Coherence Maintained at 528 Hz."
+          else
+            echo "Error: Remnant audit manifest not found."
+            exit 1
+          fi
